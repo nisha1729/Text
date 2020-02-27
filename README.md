@@ -1,4 +1,3 @@
-# Text
-NN
+# Text CLassifier
 
-Text
+A simple text classifier for AG_NEWS dataset
