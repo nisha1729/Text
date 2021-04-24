@@ -32,3 +32,5 @@ PyTorch outputs three tensors for LSTM layer:
 3. the last cell state
 
 Since we are interested in classifying the entire sequence as one category, we pass the last output to a linear layer. This then gives a score for each class.
+
+![image](https://user-images.githubusercontent.com/7227383/115952423-1794e780-a4e6-11eb-8251-64296c6a6319.png)
